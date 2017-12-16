@@ -1,2 +1,0 @@
-# firtRepository
-firstGitHub
